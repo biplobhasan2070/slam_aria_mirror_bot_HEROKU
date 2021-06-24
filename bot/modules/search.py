@@ -145,7 +145,7 @@ def searchhelp(update, context):
 • /sts <i>[search query]</i>
 • /sukebei <i>[search query]</i>
 '''
-    update.effective_message.reply_photo("https://telegra.ph/file/db03910496f06094f1f7a.jpg", help_string, parse_mode=ParseMode.HTML)
+    update.effective_message.reply_photo("https://dl7.wapkizfile.info/download/3380e4731f48265668d1c6c912010704/40f3204bc4fb9c1d12cf2a548682b558/topupload+wapkiz+com/PicsArt-03-08-09-52-56-(topupload.wapkiz.com).jpg", help_string, parse_mode=ParseMode.HTML)
     
     
 SEARCHHELP_HANDLER = CommandHandler("tshelp", searchhelp)
